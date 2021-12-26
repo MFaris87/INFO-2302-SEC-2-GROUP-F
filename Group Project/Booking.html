@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book</title>
+    <link rel="stylesheet" href="Styles/NavigationBar.css">
+    <link rel="stylesheet" href="Styles/Booking_style.css">
+    <script src="Javascript/Book.js"></script>
+    <script src="Javascript/onoffline.js"></script>
+</head>
+<body ononline="onFunction()" onoffline="offFunction()">
+    <nav>
+        <img class="logo-img" src="Image/Hotel logo2.png" alt="">
+         <div class="logo-text">
+             <h4>Flower Hotel</h4>
+         </div>
+         <ul class="nav-ul">
+             <li><a class="nav" href="Index.html">Home</a></li>
+             <li><a class="nav-active" href="Booking.html">Book</a></li>
+             <li><a class="nav" href="Facility.html">Facility</a></li>
+             <li><a class="nav" href="Room.html">Room</a></li>
+             <li><a class="nav" href="About Us.html">About Us</a></li>
+             <li><a class="nav" href="Contact.html">Contact Us</a></li>
+         </ul>
+     </nav>
+
+    <div class="container_title">Booking</div>
+<div class="body">  
+    <div class="container">
+        <div class="content">
+        <form action="#">
+            <div class="user_details">
+
+        <div class="input_box">
+            <label for="fname">First Name :</label>
+            <input type="text" name="fname" id="fname">
+        </div>
+
+        <div class="input_box">
+            <label for="lname">Last Name :</label> 
+            <input type="text" name="lname" id="lname">
+        </div>
+       
+        <div class="input_box">
+            <label for="pnumber">Phone no. :</label>
+            <input type="text" name="pnumber" id="pnumber">
+        </div> 
+
+        <div class="input_box">
+            <label for="email">Email :</label>
+            <input type="text" name="email" id="email">
+        </div> 
+
+        <div class="input_box">        
+            <label for="cin">Check-in :</label>
+            <input type="date" name="cin" id="cin">
+        </div>
+
+        <div class="input_box">
+            <label for="cout">Check-out :</label>
+            <input type="date" name="cout" id="cout">
+        </div> 
+
+        <div class="input_box">
+            <label for="adult">No. adult :</label>
+            <input type="number" name="adult" id="adult">
+         </div>
+         
+         <div class="input_box">
+            <label for="children">No. children :</label>
+            <input type="number" name="children" id="children">
+        </div>
+
+        </div>
+        
+        <div class="button" onclick="Book_Alert()">
+            <input type="submit" value="Book">
+          </div>
+       
+        </form>
+        </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
