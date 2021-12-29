@@ -40,20 +40,29 @@ us at their service anytime.
 
 # 3. Group Contributions
 
-| Name<br>( Matric No. )  	| Contribution (s)                                                                  	|
-|-------------------------	|-----------------------------------------------------------------------------------	|
-| Muhammad Faris bin Musa 	| Page : Home                                                                       	|
-| (2013259)               	| Main page                                                                         	|
-|                         	| Web element : hover button and alert to redirect to page about us, navigation bar 	|
-|                         	| Web content : show all pages in website                                           	|
-|                         	| design and created the pages                                                      	|
-|                         	| Explaining project site map                                                       	|
-|                         	| Give ideas for each content needed                                                	|
-|                         	| Explaining the main idea and topic selected                                       	|
-|                         	| Monitor group progress                                                            	|
-|                         	| Compiling the whole code and web pages also synchronises all the website pages.   	|
-|                         	| Create css code and javascript                                                    	|
-|-------------------------	|-----------------------------------------------------------------------------------	|
++----------------------------------+----------------------------------------------------------------------------------------+
+| Name                             | Contribution (s)                                                                       |
+| ( Matric No. )                   |                                                                                        |
++===========================================================================================================================+
+| Muhammad Faris bin Musa (2013259 | 1. Page : Home                                                                         |       
+|                                  |     - Web element : hover button and alert to redirect to page about us, navigation bar|                                                   
+|                                  |     - Web content : show all pages in website                                          |                                      
+|                                  |     - Design and created the pages                                                     |                            
+|                                  | 2. Explaining project site map                                                         |                         
+|                                  |     -  Give ideas for each content needed                                              |                               
+|                                  |     -  Explaining the main idea and topic selected                                     |                                         
+|                                  |                                                                                        |
++-------------------------+-------------------------------------------------------------------------------------------------+
+| Nor Zuhayra Amalin|              |                                                                                        |
+|  binti Zulkifli(2011642)         |                                                                                        |
+|                                  |                                                                                        |
+|                                  |                                                                                        |
+|                                  |                                                                                        |
+|                                  |                                                                                        |
++-------------------------+-------------------------------------------------------------------------------------------------+
+
+
+
 
 # 4. Use of Third Party Resources 
 
