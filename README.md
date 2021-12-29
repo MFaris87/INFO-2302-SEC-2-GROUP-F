@@ -42,7 +42,9 @@ us at their service anytime.
 
 | Name ( Matric No. )               	| Contribution (s)                                                                                                                                                                                        	|
 |-----------------------------------	|-----------------------	|
-| Muhammad Faris Bin Musa (2013259) 	| 1. Page:Home <br>    - Web element : hover button and alert to redirect to page about us, and also for navigation bar<br>    - Web content : show all pages in website <br>    - Design and create page 	|
+| Muhammad Faris Bin Musa (2013259) 	| 1. Page:Home <br>    - Web element : hover button and alert to redirect to page about us, and also for navigation bar<br>    
+                                                            - Web content : show all pages in website <br>    - Design and create page 	|
+
 |                                   	|                        |
 
 # 4. Use of Third Party Resources 
