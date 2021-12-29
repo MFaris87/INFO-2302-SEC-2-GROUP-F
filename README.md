@@ -40,29 +40,12 @@ us at their service anytime.
 
 # 3. Group Contributions
 
-+----------------------------------+----------------------------------------------------------------------------------------+
-| Name                             | Contribution (s)                                                                       |
-+===========================================================================================================================+
-|Muhammad Faris bin Musa (2013259  |     - Web element : hover button and alert to redirect to page about us, navigation bar|                                                   
-|                                  |     - Web content : show all pages in website                                          |                                      
-|                                  |     - Design and created the pages                                                     |                                                  
-|                                  |     -  Give ideas for each content needed                                              |                               
-|                                  |     -  Explaining the main idea and topic selected                                     |                                         
-+-------------------------+-------------------------------------------------------------------------------------------------+
-| Nor Zuhayra Amalin|              |                                                                                        |
-|  binti Zulkifli(2011642)         |                                                                                        |
-|                                  |                                                                                        |
-|                                  |                                                                                        |
-|                                  |                                                                                        |
-|                                  |                                                                                        |
-+-------------------------+-------------------------------------------------------------------------------------------------+
-
-| Format   | Tag example |
-| -------- | ----------- |
-| Headings | - k1<br>- k2<br>- k3 |
-| New paragraph | A blank line starts a new paragraph |
-| Source code block |  // all on one line<br> {{{ if (foo) bar else   baz }}} 
-
+| Name ( Matric No. )               	| Contribution (s)                                                                                                                                                                                        	|
+|-----------------------------------	|-----------------------	|
+| Muhammad Faris Bin Musa (2013259) 	| 1. Page:Home <br>    - Web element : hover button and alert to redirect to page about us, and also for navigation bar<br>    
+                                                            - Web content : show all pages in website <br>    
+                                                            - Design and create page 	|
+|                                   	|                        |
 
 # 4. Use of Third Party Resources 
 
