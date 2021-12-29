@@ -40,88 +40,33 @@ us at their service anytime.
 
 # 3. Group Contributions
 
-Name
-( Matric No. )
-Contribution (s)
-Muhammad Faris bin Musa 
-(2013259)
-Page : Home 
-Main page
-Web element : hover button and alert to redirect to page about us, navigation bar 
-Web content : show all pages in website
-design and created the pages
+| Name<br>( Matric No. )  	| Contribution (s)                                                                  	|
+|-------------------------	|-----------------------------------------------------------------------------------	|
+| Muhammad Faris bin Musa 	| Page : Home                                                                       	|
+| (2013259)               	| Main page                                                                         	|
+|                         	| Web element : hover button and alert to redirect to page about us, navigation bar 	|
+|                         	| Web content : show all pages in website                                           	|
+|                         	| design and created the pages                                                      	|
+|                         	| Explaining project site map                                                       	|
+|                         	| Give ideas for each content needed                                                	|
+|                         	| Explaining the main idea and topic selected                                       	|
+|                         	| Monitor group progress                                                            	|
+|                         	| Compiling the whole code and web pages also synchronises all the website pages.   	|
+|                         	| Create css code and javascript                                                    	|
+|-------------------------	|-----------------------------------------------------------------------------------	|
 
-Explaining project site map
-Give ideas for each content needed 
-Explaining the main idea and topic selected
-
-Monitor group progress
-Compiling the whole code and web pages also synchronises all the website pages. 
-
-Create css code and javascript
+# 4. Use of Third Party Resources 
 
 
 
-Nor Zuhayra Amalin binti Zulkifli
-(2011642)
-Page : Room 
-can check and survey the room
-Web element : Image, text box
-Web content : provide picture and each type of room
-design and created the pages 
+# 5. References 
+- Canva. (n.d.-a). Logos. Retrieved December 19, 2021, from https://www.canva.com/logos/ 
+- Canva. (n.d.-b). Video editor. Retrieved December 20, 2021, from https://www.canva.com/video-editor/ 
+- Fonticons, Inc. (n.d.). Icons. Fonst Awesome. Retrieved December 22, 2021, from https://fontawesome.com/v5.15/icons?d=gallery&p=2 
+- Google. (n.d.). Universiti Islam Antarabangsa Malaysia. Google Maps. Retrieved December 23, 2021, from https://www.google.com/maps/place/Universiti+Islam+Antarabangsa+Malaysia/@3.2504821,101.7324808,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc38c2f70795af:0xf808897bf1163a3!8m2!3d3.2504767!4d101.7346695 
+- Indian Type Foundry, & Jonny Pinhorn, J. P. (n.d.). Poppins. Google Fonts. Retrieved December 19, 2021, from https://fonts.google.com/specimen/Poppins 
 
-Documentations 
-Distribute the task to each member 
-Prepare for documentations such as report and proposal 
-
-
-Wan Nurshafiqah Nabila binti Wan Masri
-(2013674)
-
-
-Page : Facility
-Describe the places that have become a source of attraction for the guest
-Web element : Image, text box
-Web content : types of facility provided to guest
-design and created the pages
-
-Page : About us
-Explain further about the function and further essence in the business
-Web element : video promotion
-Web content : Display the general idea and the goals of the organisation
-design and created the pages 
-
-
-
-Muhammad Nasrullah bin Mat Radzi
-(2013677)
-
-
-
-
-Page : Contact us
-Display contact to guests so they can contact if they have any enquiries.
-Web content : provide contact number, social media and location
-design and created the page
-Main designer 
-Choose theme and colour scheme
-Edit appropriate styling for each pages
-
-
-Muhammad Haikal bin Azhari
-(2014711)
-
-
-
-Page : Booking
-Provide a form for guests to book  rooms in the hotel.
-Web content : select the date and check the availability of desired rooms.
-Web element : form box, submit button
-design and created the pages 
-Interactive elements 
-Edit the video promotion and provide images
-
-
+------------------------------------END OF README SAMPLE ----------------------------------------
 
 
 
