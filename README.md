@@ -1,4 +1,4 @@
-# INFO-2302-SEC-2-GROUP-F
+# Flower Hotel (Tourism Website)
 # 1 Project Description
  The theme that we have agreed upon for this project is Tourism. For this particular 
 project, our group has decided to start a hotel business as Malaysia is one of the countries that 
@@ -37,4 +37,92 @@ us at their service anytime.
 
 # 2. Project Sitemap
 ![Project Sitemap](https://user-images.githubusercontent.com/96635071/147680053-e22461fc-e6de-4fd1-8d8d-abd3e4e6f1b5.png)
-roject Sitemap
+
+# 3. Group Contributions
+
+Name
+( Matric No. )
+Contribution (s)
+Muhammad Faris bin Musa 
+(2013259)
+Page : Home 
+Main page
+Web element : hover button and alert to redirect to page about us, navigation bar 
+Web content : show all pages in website
+design and created the pages
+
+Explaining project site map
+Give ideas for each content needed 
+Explaining the main idea and topic selected
+
+Monitor group progress
+Compiling the whole code and web pages also synchronises all the website pages. 
+
+Create css code and javascript
+
+
+
+Nor Zuhayra Amalin binti Zulkifli
+(2011642)
+Page : Room 
+can check and survey the room
+Web element : Image, text box
+Web content : provide picture and each type of room
+design and created the pages 
+
+Documentations 
+Distribute the task to each member 
+Prepare for documentations such as report and proposal 
+
+
+Wan Nurshafiqah Nabila binti Wan Masri
+(2013674)
+
+
+Page : Facility
+Describe the places that have become a source of attraction for the guest
+Web element : Image, text box
+Web content : types of facility provided to guest
+design and created the pages
+
+Page : About us
+Explain further about the function and further essence in the business
+Web element : video promotion
+Web content : Display the general idea and the goals of the organisation
+design and created the pages 
+
+
+
+Muhammad Nasrullah bin Mat Radzi
+(2013677)
+
+
+
+
+Page : Contact us
+Display contact to guests so they can contact if they have any enquiries.
+Web content : provide contact number, social media and location
+design and created the page
+Main designer 
+Choose theme and colour scheme
+Edit appropriate styling for each pages
+
+
+Muhammad Haikal bin Azhari
+(2014711)
+
+
+
+Page : Booking
+Provide a form for guests to book  rooms in the hotel.
+Web content : select the date and check the availability of desired rooms.
+Web element : form box, submit button
+design and created the pages 
+Interactive elements 
+Edit the video promotion and provide images
+
+
+
+
+
+
