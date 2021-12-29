@@ -57,16 +57,11 @@ us at their service anytime.
 |                                  |                                                                                        |
 +-------------------------+-------------------------------------------------------------------------------------------------+
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| ------------- | ------------- |
+| Format   | Tag example |
+| -------- | ----------- |
+| Headings | - k1<br>- k2<br>- k3 |
+| New paragraph | A blank line starts a new paragraph |
+| Source code block |  // all on one line<br> {{{ if (foo) bar else   baz }}} 
 
 
 # 4. Use of Third Party Resources 
