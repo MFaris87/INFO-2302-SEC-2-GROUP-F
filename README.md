@@ -42,16 +42,12 @@ us at their service anytime.
 
 +----------------------------------+----------------------------------------------------------------------------------------+
 | Name                             | Contribution (s)                                                                       |
-| ( Matric No. )                   |                                                                                        |
 +===========================================================================================================================+
-| Muhammad Faris bin Musa (2013259 | 1. Page : Home                                                                         |       
-|                                  |     - Web element : hover button and alert to redirect to page about us, navigation bar|                                                   
+|Muhammad Faris bin Musa (2013259  |     - Web element : hover button and alert to redirect to page about us, navigation bar|                                                   
 |                                  |     - Web content : show all pages in website                                          |                                      
-|                                  |     - Design and created the pages                                                     |                            
-|                                  | 2. Explaining project site map                                                         |                         
+|                                  |     - Design and created the pages                                                     |                                                  
 |                                  |     -  Give ideas for each content needed                                              |                               
 |                                  |     -  Explaining the main idea and topic selected                                     |                                         
-|                                  |                                                                                        |
 +-------------------------+-------------------------------------------------------------------------------------------------+
 | Nor Zuhayra Amalin|              |                                                                                        |
 |  binti Zulkifli(2011642)         |                                                                                        |
@@ -74,9 +70,3 @@ us at their service anytime.
 - Fonticons, Inc. (n.d.). Icons. Fonst Awesome. Retrieved December 22, 2021, from https://fontawesome.com/v5.15/icons?d=gallery&p=2 
 - Google. (n.d.). Universiti Islam Antarabangsa Malaysia. Google Maps. Retrieved December 23, 2021, from https://www.google.com/maps/place/Universiti+Islam+Antarabangsa+Malaysia/@3.2504821,101.7324808,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc38c2f70795af:0xf808897bf1163a3!8m2!3d3.2504767!4d101.7346695 
 - Indian Type Foundry, & Jonny Pinhorn, J. P. (n.d.). Poppins. Google Fonts. Retrieved December 19, 2021, from https://fonts.google.com/specimen/Poppins 
-
-------------------------------------END OF README SAMPLE ----------------------------------------
-
-
-
-
