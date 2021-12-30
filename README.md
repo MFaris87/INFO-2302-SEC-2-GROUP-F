@@ -1,11 +1,7 @@
 # READ ME.MD
 ## Prepared byGroup F 
 
-| Muhammad Faris Bin Musa                	| 2013259    	|
-| Nor Zuhayra Amalin binti Zulkifli      	| 2011642    	|
-| Wan Nurshafiqah Nabila binti Wan Masri 	| 2013674    	|
-| Muhammad Nasrullah bin Mat Radzi       	| 2013677    	|
-| Muhammad Haikal bin Azhari             	| 2014711    	|
+| Muhammad Faris Bin Musa                	( 2013259 )    	|| Nor Zuhayra Amalin binti Zulkifli      	( 2011642)   	|| Wan Nurshafiqah Nabila binti Wan Masri 	  ( 2013674 )   	|| Muhammad Nasrullah bin Mat Radzi       	( 2013677)    	|| Muhammad Haikal bin Azhari             	( 2014711 )    	|
 ## 'Flower Hotel'
 ## 'Flower Hotel' is a website for a hotel that based in Malaysia.
 ## 1 Project Description
