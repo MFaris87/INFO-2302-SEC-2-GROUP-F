@@ -1,6 +1,7 @@
 # READ ME.MD
-## Guide by Abdul Rafiez Bin Abdul Raziff
-## Prepared byGroup F 
+## Guide by 
+- Abdul Rafiez Bin Abdul Raziff
+## Prepared by Group F 
 
 - Muhammad Faris Bin Musa                	( 2013259 )
 - Nor Zuhayra Amalin binti Zulkifli      	( 2011642 )   	
