@@ -1,5 +1,15 @@
-# Flower Hotel (Tourism Website)
-# 1 Project Description
+# READ ME.MD
+## Prepared byGroup F 
+| Name                                   	| Matric No. 	|
+|----------------------------------------	|------------	|
+| Muhammad Faris Bin Musa                	| 2013259    	|
+| Nor Zuhayra Amalin binti Zulkifli      	| 2011642    	|
+| Wan Nurshafiqah Nabila binti Wan Masri 	| 2013674    	|
+| Muhammad Nasrullah bin Mat Radzi       	| 2013677    	|
+| Muhammad Haikal bin Azhari             	| 2014711    	|
+## 'Flower Hotel'
+## 'Flower Hotel' is a website for a hotel that based in Malaysia.
+## 1 Project Description
  The theme that we have agreed upon for this project is Tourism. For this particular 
 project, our group has decided to start a hotel business as Malaysia is one of the countries that 
 have a lot of interesting places that tourists can go for a visit. With this initiative, it will come 
@@ -35,10 +45,10 @@ can about the Flower Hotel. In addition to that, we are hoping that we can level
 guest’s satisfaction and contentment. By doing so, the guest will not hesitate to stay and have 
 us at their service anytime.
 
-# 2. Project Sitemap
+## 2. Project Sitemap
 ![Project Sitemap](https://user-images.githubusercontent.com/96635071/147680053-e22461fc-e6de-4fd1-8d8d-abd3e4e6f1b5.png)
 
-# 3. Group Contributions
+## 3. Group Contributions
 
 | Name ( Matric No. )                                 	| Contribution (s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	|
 |-----------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -48,7 +58,7 @@ us at their service anytime.
 | Muhammad Nasrullah bin Mat Radzi<br>(2013677)       	| <br>1. Page : Contact us<br>    - Display contact to guests so they can contact if they have any enquiries.<br>    - Web content : provide contact number, social media and location<br>    - Design and created the page<br><br>2. Design <br>    - Create and design the mock-up page<br>    - Create and design the logo                                                                                                                                                                                                                	|
 | Muhammad Haikal bin Azhari<br>(2014711)             	| <br>1. Page : Booking<br>    - Provide a form for guests to book  rooms in the hotel.<br>    - Web content : select the date and check the availability of desired rooms.<br>    - Web element : form box, submit button<br>    - Design and created the pages <br><br>2. Interactive elements <br>    - Edit the video promotion and provide images<br>    - Edit appropriate styling for each pages                                                                                                                                      	|
 
-# 4. Use of Third Party Resources 
+## 4. Use of Third Party Resources 
 
 | Web elements  	| Name                                                                                                    	| Use of third party resources  	| Modifications (if any) 	|
 |---------------	|---------------------------------------------------------------------------------------------------------	|-------------------------------	|------------------------	|
@@ -60,7 +70,7 @@ us at their service anytime.
 | Iframe        	| Hotel location                                                                                          	| Taken from Google Maps        	| Resize it              	|
 
 
-# 5. References 
+## 5. References 
 - Canva. (n.d.-a). Logos. Retrieved December 19, 2021, from https://www.canva.com/logos/ 
 - Canva. (n.d.-b). Video editor. Retrieved December 20, 2021, from https://www.canva.com/video-editor/ 
 - Fonticons, Inc. (n.d.). Icons. Fonst Awesome. Retrieved December 22, 2021, from https://fontawesome.com/v5.15/icons?d=gallery&p=2 
