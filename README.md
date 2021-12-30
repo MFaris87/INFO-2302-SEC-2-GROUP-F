@@ -9,7 +9,7 @@
 
 ## 'Flower Hotel'
 ## 'Flower Hotel' is a website for a hotel that based in Malaysia.
-## 1 Project Description
+## 1. Project Description
  The theme that we have agreed upon for this project is Tourism. For this particular 
 project, our group has decided to start a hotel business as Malaysia is one of the countries that 
 have a lot of interesting places that tourists can go for a visit. With this initiative, it will come 
@@ -49,6 +49,8 @@ us at their service anytime.
 ![Project Sitemap](https://user-images.githubusercontent.com/96635071/147680053-e22461fc-e6de-4fd1-8d8d-abd3e4e6f1b5.png)
 
 ## 3. Group Contributions
+
+All the work has been distribute equally to all the group member.
 
 | Name ( Matric No. )                                 	| Contribution (s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	|
 |-----------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
