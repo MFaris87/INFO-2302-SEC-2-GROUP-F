@@ -1,7 +1,6 @@
 # READ ME.MD
 ## Prepared byGroup F 
-| Name                                   	| Matric No. 	|
-|----------------------------------------	|------------	|
+
 | Muhammad Faris Bin Musa                	| 2013259    	|
 | Nor Zuhayra Amalin binti Zulkifli      	| 2011642    	|
 | Wan Nurshafiqah Nabila binti Wan Masri 	| 2013674    	|
