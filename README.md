@@ -49,6 +49,14 @@ us at their service anytime.
 | Muhammad Haikal bin Azhari<br>(2014711)             	| <br>1. Page : Booking<br>    - Provide a form for guests to book  rooms in the hotel.<br>    - Web content : select the date and check the availability of desired rooms.<br>    - Web element : form box, submit button<br>    - Design and created the pages <br><br>2. Interactive elements <br>    - Edit the video promotion and provide images<br>    - Edit appropriate styling for each pages                                                                                                                                      	|
 # 4. Use of Third Party Resources 
 
+| Web elements  	| Name                                                                                                    	| Use of third party resources  	| Modifications (if any) 	|
+|---------------	|---------------------------------------------------------------------------------------------------------	|-------------------------------	|------------------------	|
+| Font          	| Poppins                                                                                                 	| Import from Google Fonts      	| -                      	|
+| Video         	| Flower Hotel. mp4                                                                                       	| Create using Canva            	| -                      	|
+| Icon          	| Facebook.icon<br>Instagram.icon<br>Twitter.icon<br>Email.icon                                           	| Taken from Font Awesome       	| -                      	|
+| Photo         	| Hotel logo.png                                                                                          	| Create using Canva            	| -                      	|
+| Photo         	| Pool.jpg<br>Spa.jpg<br>Gym.jpg<br>Restauran.jpg<br>Single.jpg<br>Double.jpg<br>Twin.jpg<br>Regular.jpg  	| Taken from Google Image       	| -                      	|
+| Iframe        	| Hotel location                                                                                          	| Taken from Google Maps        	| Resize it              	|
 
 
 # 5. References 
