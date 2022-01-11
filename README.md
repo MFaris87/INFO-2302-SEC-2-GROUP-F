@@ -64,14 +64,15 @@ All the work has been distribute equally to all the group member.
 
 ## 4. Use of Third Party Resources 
 
-| Web elements  	| Name                                                                                                    	| Use of third party resources  	| Modifications (if any) 	|
-|---------------	|---------------------------------------------------------------------------------------------------------	|-------------------------------	|------------------------	|
-| Font          	| Poppins                                                                                                 	| Import from Google Fonts      	| -                      	|
-| Video         	| Flower Hotel. mp4                                                                                       	| Create using Canva            	| -                      	|
-| Icon          	| Facebook.icon<br>Instagram.icon<br>Twitter.icon<br>Email.icon                                           	| Taken from Font Awesome       	| -                      	|
-| Photo         	| Hotel logo.png                                                                                          	| Create using Canva            	| -                      	|
-| Photo         	| Pool.jpg<br>Spa.jpg<br>Gym.jpg<br>Restauran.jpg<br>Single.jpg<br>Double.jpg<br>Twin.jpg<br>Regular.jpg  	| Taken from Google Image       	| -                      	|
-| Iframe        	| Hotel location                                                                                          	| Taken from Google Maps        	| Resize it              	|
+| Web elements 	|                                                                                  Name                                                                                  	| Use of third party resources 	|      Modifications (if any)      	|
+|:------------:	|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------:	|:--------------------------------:	|
+| Font         	| Poppins                                                                                                                                                                	| Import from Google Fonts     	| -                                	|
+| Video        	| Flower Hotel. mp4                                                                                                                                                      	| Create using Canva           	| -                                	|
+| con          	| Facebook.icon<br>Instagram.icon<br>Twitter.icon<br>Email.icon                                                                                                          	| Taken from Font Awesome      	| -                                	|
+| Photo        	| Hotel logo.png                                                                                                                                                         	| Create using Canva           	| -                                	|
+| Photo        	| Pool.jpg<br>Spa.jpg<br>Gym.jpg<br>Restauran.jpg<br>Single.jpg<br>Double.jpg<br>Twin.jpg<br>Regular.jpg                                                                 	| Taken from Google Image      	| -                                	|
+| Iframe       	| Hotel location                                                                                                                                                         	| Taken from Google Maps       	| Resize it                        	|
+| Audio        	| Flower (Crash Landing On You OST)-Instrumental.mp3<br>Rick Astley - Never Gonna Give You Up (Instrumental).mp3<br>Rick Astley - Never Gonna Give You Up (Official).mp3 	| Taken From YouTube           	| Convert from video to audio only 	|
 
 
 ## 5. References 
